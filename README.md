@@ -6,6 +6,29 @@ My solution for the second project of the [Individual programming project (pol. 
 
 Write a library of operations on rare polynomials of many variables with integer coefficients and implement calculator working on these polynomials that uses Reverse Polish notation.
 
+## Usage
+
+Build (recommended):
+```
+mkdir build && cd build && cmake .. && make
+```
+
+Run:
+```
+./poly
+```
+
+### Documentation
+
+To use Doxygen documentation run
+```
+doxygen
+```
+after building application. Then run
+```
+<name_of_your_browser> html/index.html
+```
+
 # Shortened description in polish
 
 ## Treść zadania

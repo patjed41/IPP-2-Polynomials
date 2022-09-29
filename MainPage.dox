@@ -3,7 +3,7 @@
 
 ## Treść zadania
 
-Tegoroczne duże zadanie polega na zaimplementowaniu operacji na wielomianach
+Zadanie polega na zaimplementowaniu operacji na wielomianach
 rzadkich wielu zmiennych o współczynnikach całkowitych oraz zaimplementowaniu
 kalkulatora działającego na tych wielomianach i stosującego odwrotną notację
 polską.

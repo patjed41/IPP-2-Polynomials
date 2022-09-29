@@ -1,6 +1,6 @@
 # Polynomials
 
-My solution for the second project of the [Individual programming project (pol. Indywidualny projekt programistyczny)](https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=1000-222bIPP) course taken in the 2021/2022 summer semester.
+My solution for the second project of the [Individual programming project (pol. Indywidualny projekt programistyczny)](https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=1000-222bIPP) course taken in the 2020/2021 summer semester.
 
 ## Task
 
